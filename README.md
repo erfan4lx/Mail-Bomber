@@ -9,17 +9,9 @@ Attack to your target mail with your multi mails just follow this steps then run
 
 4- Open the Ports.txt then put your mail port address(For Gmail put this addr = 587) 
 ***
-Show on Youtube : https://youtu.be/w3lqlLz2M4s
+Show full video on YouTube : https://youtu.be/w3lqlLz2M4s
 
-➖➖➖➖➖➖
-Coded by: erfan4lx
-➖➖➖➖➖➖
-
-👊 ʍ4ղíƒҽՏԵ0 ϲվҍҽɾ ՏҽϲմɾíԵվ Եҽɑʍ™💪
-
-🔥 ฿Ⱡ₳₵₭ Ⱨ₳₮ Ⱨ₳₵₭ɆⱤ 🔥
-
-➖➖➖➖➖➖
+Show demo video on Instagram : https://www.instagram.com/p/CMKDwHQgJS2
 
 🆔My YouTube Channel : http://youtube.com/erfan4lx
 
@@ -35,3 +27,4 @@ Coded by: erfan4lx
     <img src="https://www.iconsdb.com/icons/preview/black/youtube-4-xxl.png" width="40" height="40">
   </a>
 </p>
+
