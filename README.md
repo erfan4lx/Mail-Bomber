@@ -9,7 +9,7 @@ Attack to your target mail with your multi mails just follow this steps then run
 
 4- Open the Ports.txt then put your mail port address(For Gmail put this addr = 587) 
 ***
-Show full video on YouTube : https://youtu.be/w3lqlLz2M4s
+Show full video on YouTube : Video was deleted by YouTube, I'll upload it again but for now you can get it from me on Telegram or Email
 
 Show demo video on Instagram : https://www.instagram.com/p/CMKDwHQgJS2
 
