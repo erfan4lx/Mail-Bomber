@@ -1,6 +1,8 @@
 # Mail-Bomber
 Attack to your target mail with your multi mails just follow this steps then run the tool with: python3 erfan4lx.py
 
+ MY OFFICIAL WEBSITE : https://erfan4lx.com
+
 1- Open the Emails.txt then put your mails 
 
 2- Open the Passwords.txt then put your mails passwords  
