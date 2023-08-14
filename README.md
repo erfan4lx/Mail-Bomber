@@ -14,7 +14,7 @@ Attack to your target mail with your multi mails just follow this steps then run
 Show full video on YouTube : Video was deleted by YouTube, I'll upload it again but for now you can get it from me on Telegram or Email
 Contact with me to get the Password of Zip file on :
 
- Telegram : https://t.me/erfan4lx0
+ Telegram : https://t.me/erfan4lx12
   
  Email : erfan4lx@gmail.com
 
